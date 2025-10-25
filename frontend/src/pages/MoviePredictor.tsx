@@ -155,7 +155,7 @@ export default function MoviePredictor() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-300 mb-3">Language</label>
+            <label className="block text-sm font-medium text-gray-300 mb-3">language</label>
             <div className="flex gap-4">
               {['english', 'hindi'].map(lang => (
                 <button
