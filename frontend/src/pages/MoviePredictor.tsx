@@ -19,7 +19,7 @@ const MONTHS = [
 ];
 
 // --- Set your backend API URL here ---
-const API_BASE_URL = 'http://127.0.0.1:5000';
+const API_BASE_URL = 'https://ott-content-analysis-ojg0.onrender.com';
 
 export default function MoviePredictor() {
   const [formData, setFormData] = useState({
